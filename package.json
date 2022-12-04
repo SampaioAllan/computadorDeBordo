@@ -1,0 +1,25 @@
+{
+  "name": "computadordebordo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "dependencies": {
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SampaioAllan/computadorDeBordo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SampaioAllan/computadorDeBordo/issues"
+  },
+  "homepage": "https://github.com/SampaioAllan/computadorDeBordo#readme"
+}
